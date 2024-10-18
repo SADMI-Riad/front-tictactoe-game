@@ -37,6 +37,7 @@ function DifficultySelector() {
             <div className="footer">Good Luck!</div>
           </>
         )}
+        {mode}
       </div>
     </div>
   );
